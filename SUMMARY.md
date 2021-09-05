@@ -5,6 +5,10 @@
 
 ## Post
 
+---
+
+* [Template structure](template-structure.md)
+
 ## Pages
 
 ## Custom Field
