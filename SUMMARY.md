@@ -11,6 +11,10 @@
 
 ## Pages
 
+---
+
+* [Template structure](template-structure-1.md)
+
 ## Custom Field
 
 ## Theme Option
